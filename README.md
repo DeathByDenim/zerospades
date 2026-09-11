@@ -104,4 +104,4 @@ For troubleshooting and common problems see [TROUBLESHOOTING](TROUBLESHOOTING.md
 ## Licensing
 Please see the file named LICENSE.
 
-Note that other assets including sounds and models are not open source.
+The other assets including sounds and models, are licensed under various CC licenses. See Resources/License.
