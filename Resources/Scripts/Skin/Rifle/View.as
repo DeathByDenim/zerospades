@@ -40,7 +40,7 @@ namespace spades {
 
 		// Attachment Points
 		private Vector3 magazineAttachment = Vector3(0.0F, 0.0F, 0.0F);
-		private Vector3 rearSightAttachment = Vector3(0.0125F, -8.0F, -4.5F);
+		private Vector3 rearSightAttachment = Vector3(0.0125F, -8.5F, -4.5F);
 		private Vector3 frontSightAttachment = Vector3(0.025F, 16.75F, -4.5F);
 		private Vector3 reflexSightAttachment = Vector3(0.04F, -7.825F, -5.12F);
 
