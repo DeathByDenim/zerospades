@@ -469,7 +469,7 @@ namespace spades {
 				// draw base
 				param.matrix = weapMatrix
 					* CreateTranslateMatrix(GetPumpOffset())
-					* CreateTranslateMatrix(1.95F, -1.25F, -2.25F)
+					* CreateTranslateMatrix(1.95F, -1.25F, -1.45F)
 					* CreateScaleMatrix(0.1F);
 				renderer.AddModel(charmBaseModel, param);
 
