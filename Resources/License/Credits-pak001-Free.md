@@ -12,6 +12,10 @@ All sounds have been obtained from Public Domain resources.
 
 | Sound | Source | License | Credit |
 |-------|--------|---------|--------|
+| Sounds/Feedback/Beep1.opus | <https://opengameart.org/content/atmospheric-interaction-sound-pack> | CC0 | legoluft |
+| Sounds/Feedback/Beep2.opus | <https://opengameart.org/content/ui-sound-effects-button-clicks-user-feedback-notifications> | CC0 | Robin Lamb |
+| Sounds/Feedback/Intro.opus | <https://opengameart.org/content/guitar-0> | CC0 | AntumDeluge |
+| Sounds/Feedback/HitFeedback.opus | <https://opengameart.org/content/100-cc0-sfx-2> | CC0 | rubberduck |
 | Sounds/Feedback/Lose.opus | <https://opengameart.org/content/game-over-8> | CC0 | Umplix |
 | Sounds/Feedback/Win.opus | <https://opengameart.org/content/victory-4> | CC0 | Umplix |
 | Sounds/Misc/BlockDestroy.opus | <https://opengameart.org/content/35-wooden-crackshitsdestructions> (crack04.mp3.flac) | CC0 | Independent.nu |
