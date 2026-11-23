@@ -4,7 +4,7 @@ This pak is a drop-in replacement for the Non-Free pak that is currently distrbu
 
 ## Models
 
-All models have been created from scratch using [Voxelshop](https://simlu.github.io/voxelshop/) by Jarno van der Kolk and are licensed un CC0.
+All models have been created from scratch using [Voxelshop](https://simlu.github.io/voxelshop/) or the built-in editor of [Zerospades](https://github.com/zerospades/zerospades) by Jarno van der Kolk and are licensed as CC0.
 
 ## Sounds
 
@@ -18,6 +18,7 @@ All sounds have been obtained from Public Domain resources.
 | Sounds/Feedback/HitFeedback.opus | <https://opengameart.org/content/100-cc0-sfx-2> | CC0 | rubberduck |
 | Sounds/Feedback/Lose.opus | <https://opengameart.org/content/game-over-8> | CC0 | Umplix |
 | Sounds/Feedback/Win.opus | <https://opengameart.org/content/victory-4> | CC0 | Umplix |
+| Sounds/Misc/BlockBounce.opus | <https://freesound.org/people/sangtao/sounds/190459/> | CC0 | sangtao |
 | Sounds/Misc/BlockDestroy.opus | <https://opengameart.org/content/35-wooden-crackshitsdestructions> (crack04.mp3.flac) | CC0 | Independent.nu |
 | Sounds/Misc/BlockFall.opus | <https://opengameart.org/content/35-wooden-crackshitsdestructions> (crack04.mp3.flac) | CC0 | Independent.nu |
 | Sounds/Player/FallHurt.opus | <https://opengameart.org/content/cracking-sounds> | CC-BY 4.0 | Hansjörg Malthaner |
@@ -30,6 +31,7 @@ All sounds have been obtained from Public Domain resources.
 | Sounds/Player/Footstep6.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (grass/5.ogg) | CC-BY 3.0 | congusbongus |
 | Sounds/Player/Footstep7.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (grass/6.ogg) | CC-BY 3.0 | congusbongus |
 | Sounds/Player/Footstep8.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (grass/7.ogg) | CC-BY 3.0 | congusbongus |
+| Sounds/Player/Death.opus | <https://opengameart.org/content/male-gruntyelling-sounds> (3grunt1.wav) | CC0 | HaelDB |
 | Sounds/Player/Jump.opus | <https://opengameart.org/content/cloth-swing-sounds> | CC-BY 3.0 | Vinrax |
 | Sounds/Player/Land.opus | <https://opengameart.org/content/jump-landing-sound> | CC0 | MentalSanityOff |
 | Sounds/Player/Run1.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
